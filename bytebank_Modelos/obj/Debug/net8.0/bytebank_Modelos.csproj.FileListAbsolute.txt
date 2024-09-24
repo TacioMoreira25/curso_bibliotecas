@@ -1,0 +1,11 @@
+/home/vini/Documentos/Dev/C#/curso_bibliotecas-Aula02/bytebank_Modelos/bin/Debug/net8.0/bytebank_Modelos.deps.json
+/home/vini/Documentos/Dev/C#/curso_bibliotecas-Aula02/bytebank_Modelos/bin/Debug/net8.0/bytebank_Modelos.dll
+/home/vini/Documentos/Dev/C#/curso_bibliotecas-Aula02/bytebank_Modelos/bin/Debug/net8.0/bytebank_Modelos.pdb
+/home/vini/Documentos/Dev/C#/curso_bibliotecas-Aula02/bytebank_Modelos/obj/Debug/net8.0/bytebank_Modelos.GeneratedMSBuildEditorConfig.editorconfig
+/home/vini/Documentos/Dev/C#/curso_bibliotecas-Aula02/bytebank_Modelos/obj/Debug/net8.0/bytebank_Modelos.AssemblyInfoInputs.cache
+/home/vini/Documentos/Dev/C#/curso_bibliotecas-Aula02/bytebank_Modelos/obj/Debug/net8.0/bytebank_Modelos.AssemblyInfo.cs
+/home/vini/Documentos/Dev/C#/curso_bibliotecas-Aula02/bytebank_Modelos/obj/Debug/net8.0/bytebank_Modelos.csproj.CoreCompileInputs.cache
+/home/vini/Documentos/Dev/C#/curso_bibliotecas-Aula02/bytebank_Modelos/obj/Debug/net8.0/bytebank_Modelos.dll
+/home/vini/Documentos/Dev/C#/curso_bibliotecas-Aula02/bytebank_Modelos/obj/Debug/net8.0/refint/bytebank_Modelos.dll
+/home/vini/Documentos/Dev/C#/curso_bibliotecas-Aula02/bytebank_Modelos/obj/Debug/net8.0/bytebank_Modelos.pdb
+/home/vini/Documentos/Dev/C#/curso_bibliotecas-Aula02/bytebank_Modelos/obj/Debug/net8.0/ref/bytebank_Modelos.dll
