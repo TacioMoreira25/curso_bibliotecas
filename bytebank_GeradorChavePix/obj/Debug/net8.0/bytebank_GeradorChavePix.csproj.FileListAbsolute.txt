@@ -1,0 +1,12 @@
+/home/vini/Documentos/Dev/C#/bytebank_GeradorChavePix/bin/Debug/net8.0/bytebank_GeradorChavePix.deps.json
+/home/vini/Documentos/Dev/C#/bytebank_GeradorChavePix/bin/Debug/net8.0/bytebank_GeradorChavePix.dll
+/home/vini/Documentos/Dev/C#/bytebank_GeradorChavePix/bin/Debug/net8.0/bytebank_GeradorChavePix.pdb
+/home/vini/Documentos/Dev/C#/bytebank_GeradorChavePix/obj/Debug/net8.0/bytebank_GeradorChavePix.GeneratedMSBuildEditorConfig.editorconfig
+/home/vini/Documentos/Dev/C#/bytebank_GeradorChavePix/obj/Debug/net8.0/bytebank_GeradorChavePix.AssemblyInfoInputs.cache
+/home/vini/Documentos/Dev/C#/bytebank_GeradorChavePix/obj/Debug/net8.0/bytebank_GeradorChavePix.AssemblyInfo.cs
+/home/vini/Documentos/Dev/C#/bytebank_GeradorChavePix/obj/Debug/net8.0/bytebank_GeradorChavePix.csproj.CoreCompileInputs.cache
+/home/vini/Documentos/Dev/C#/bytebank_GeradorChavePix/obj/Debug/net8.0/bytebank_GeradorChavePix.dll
+/home/vini/Documentos/Dev/C#/bytebank_GeradorChavePix/obj/Debug/net8.0/refint/bytebank_GeradorChavePix.dll
+/home/vini/Documentos/Dev/C#/bytebank_GeradorChavePix/obj/Debug/net8.0/bytebank_GeradorChavePix.pdb
+/home/vini/Documentos/Dev/C#/bytebank_GeradorChavePix/obj/Debug/net8.0/ref/bytebank_GeradorChavePix.dll
+/home/vini/Documentos/Dev/C#/bytebank_GeradorChavePix/bin/Debug/net8.0/bytebank_GeradorChavePix.xml
